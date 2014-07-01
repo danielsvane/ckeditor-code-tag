@@ -1,4 +1,4 @@
-Code Tag in CKEditor
+Code tag in CKEditor
 ==============
 
 ![](http://imgur.com/LN0MAEZ.png)
