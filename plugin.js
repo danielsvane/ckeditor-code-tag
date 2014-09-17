@@ -6,9 +6,8 @@ CKEDITOR.plugins.add( 'codeTag', {
 
     // Listen to contextual style activation.
     editor.attachStyleStateChange( style, function (state) {
-      console.log(state);
       !editor.readOnly && editor.getCommand( 'wrapCode').setState(state);
-    })
+    } );
 
     // Create the command.
     editor.addCommand( 'wrapCode', new CKEDITOR.styleCommand( style ) );
