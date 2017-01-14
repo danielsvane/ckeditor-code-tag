@@ -1,0 +1,10 @@
+{
+	"name": "kentr/ckeditor-code-tag",
+	"description": "Code tag plugin for CKEditor. This is a fork of the official plugin to include composer.json.",
+	"authors": [{
+		"name": "Daniel Svane",
+		"email": "danielsvane@gmail.com",
+		"homepage": "https://github.com/danielsvane/ckeditor-code-tag"
+	}],
+	"require": {}
+}
